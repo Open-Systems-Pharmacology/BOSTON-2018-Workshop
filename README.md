@@ -34,7 +34,7 @@ As a use-case for above learnings, we will develop a PB-QSP model for naked anti
 | 14:00 | **Hands-On** (with Intro): Tumor growth modeling |
 | 14:30 | **Hands-On** (with Intro): nAb / ADC tumor treatment (PD-Effect) |
 | 15:00 | **Coffee Break** |
-| 15:15 | **Hands-On** (with Intro): Running (parallel) simulations with the OSPS R-Toolbox in R |
+| 15:15 | **Hands-On** (with Intro): Running simulations with the OSPS R-Toolbox in R |
 | 16:00 | Lecture: Complex PB-QSP models: The Diabetes Platform |
 | 16:30 | Wrap-up and Q & A |
 | 17:00 | **END** |
