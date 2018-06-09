@@ -28,7 +28,7 @@ As a use-case for above learnings, we will develop a PB-QSP model for naked anti
 | 11:00 | **Coffee Break** |
 | 11:15 | Lecture: General concepts of PBPK modeling|
 | 11:45 | Lecture: Introduction to MoBi |
-| 12:15 | **Lunch Break** |
+| 12:15 | **Lunch Break** (NOT INCLUDED! Will go for lunch at a restaurant nearby)|
 | 13:00 | Demo: Introduction to mechanistic modeling with MoBi: target-mediated drug disposition |
 | 13:30 | **Hands-On** (with Intro): Creating reactions |
 | 14:00 | **Hands-On** (with Intro): Tumor growth modeling |
