@@ -20,7 +20,7 @@ The workshop is currently restricted to 25 participants.
 
 As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
 
-| Time (Monday 28 May) | Topic |
+| Time (Wednesday June 27) | Topic |
 | ------------- | ------------- |
 | 9:30 | Welcome and getting everyone started (solving IT issues) |
 | 9:45 | Lecture: Introduction to PBPK modeling|
