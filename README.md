@@ -12,7 +12,7 @@ This workshop will be held by the lead scientists from esqlabs GmbH with extensi
 
 While the workshop does not require any prior experience with PK-Sim® & MoBi®, many topics will be of interest even for advanced users.
 
-For more information and registration, please visit [EventBrite](https://www.eventbrite.com/e/pk-sim-mobi-workshop-on-integrating-pbpk-with-qsp-tickets-46881000334?ref=ebtnebtckt).
+For more information and registration, please visit [EventBrite](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-integrating-pbpk-with-qsp-registration-48574282988).
 
 The workshop is currently restricted to 25 participants.
 
